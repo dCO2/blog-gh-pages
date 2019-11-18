@@ -1,7 +1,6 @@
 ---
 layout: page
 homepage: True
-permalink: /
 title: Home
 ---
 
