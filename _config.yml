@@ -24,3 +24,5 @@ permalink: /blog/:year/:month/:day/:title/
 # important since the site is compiled
 # on Github's servers
 timezone: Africa/Lagos
+
+theme: jekyll-theme-minimal
