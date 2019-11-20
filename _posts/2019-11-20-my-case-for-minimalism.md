@@ -21,7 +21,7 @@ If minimalism means being simple, how then does that explain the apparent disson
 
 You see, think about this metaphor for a minute: Your thoughts, your intuition, your knowledge and a few of your beliefs are all bubble-balls of inarticulate, probably uninformed and possibly contradictory ideas (for lack of a better word) floating about your headspace every second.
 
-But these bubble-balls are weird. They don't readily coalesce like usual soap bubbles would and every day as you live, you cram thousands of balls of ideas into your tiny; slightly-minimalist headspace without **seriously** examining or screening or sieving or filtering them.
+But these bubble-balls are weird. They don't readily coalesce like usual soap bubbles would and every day as you live, you cram thousands of balls of ideas into your tiny; slightly-minimalist headspace without seriously examining or screening or sieving or filtering them.
 
 You clutter your headspace.
 
