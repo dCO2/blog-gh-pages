@@ -29,7 +29,7 @@ blockquote {
 
 aside {
     border-left: 1px solid #eee;
-    float: left;
+    float: right;
     font-size: 0.8em;
     margin-left: 1em;
     margin-bottom: 1em;
