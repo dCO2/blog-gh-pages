@@ -4,7 +4,7 @@ url: "https://dco2.github.io/blog-gh-pages/"
 
 # Author info
 author_name: Durojaiye Caleb
-author_image_path: images/author-image.png
+author_image_path: /blog-gh-pages/images/author-image.png
 
 # External services
 github_url: "https://github.com/ABC"
