@@ -14,7 +14,6 @@ body {
 
 h1, h2, h3, h4 {
     font-family: Arial, Verdana, sans-serif;
-    text-align: left;
     line-height: 1em;
     color: #000;
 }
@@ -221,6 +220,7 @@ p.feature-image img {
 .title {
     letter-spacing: -1px;
     margin: 0;
+    text-align: left;
 }
 
 .title a, .post-meta a {
