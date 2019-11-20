@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Gold rustles on spiky new shoes
 tags: garbled-gunk-shot-of-steaming-phrases
 ---
