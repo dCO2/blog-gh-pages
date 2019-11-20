@@ -6,8 +6,9 @@ tags: psychology design art
 
 I dare say:
 > If by magic you made a copy of yourself and from a distance watched your clone live as you normally would, you would be utterly surprised by the dissonance in the beliefs of you the perceived and your clone, the observed.
+>
+> "That's not me!" you would yell.
 
-"That's not me!" you would yell.
 But why?
 
 Why is it that what we perceive of ourselves and who we claim to be is not who we actually are 
