@@ -1,17 +1,16 @@
 name: Durojaiye Caleb
-description: Caleb's BLOG
+description: Caleb's Blog
 url: "https://dco2.github.io/blog-gh-pages/"
 
 # Author info
-author_name: Durojaiye Caleb
+author_name: Mr. D. O. Caleb
 author_image_path: /blog-gh-pages/images/author-image.png
 
 # External services
-github_url: "https://github.com/ABC"
-twitter_url: "https://twitter.com/ABC"
-linkedin_url: "https://linkedin.com/in/ABC"
-feed_url: ""
-email: "ABC@gmail.com"
+github_url: "https://github.com/dco2"
+twitter_url: "https://twitter.com/rojaye_shegz"
+linkedin_url: "https://linkedin.com/in/durojaiye-caleb-6267b8144/"
+email: "dco2.caleb@gmail.com"
 
 # Markdown rendering
 kramdown:
