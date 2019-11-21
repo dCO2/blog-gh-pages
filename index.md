@@ -9,7 +9,7 @@ title: Home
 Hello, I am Durojaiye Caleb; Although,
 > What's in a name?
 
-I am a student at the [University of Lagos, Nigeria][1]; Interested in the Arts, Mathematics & Physics, Computer Science and Software Engineering. I want to understand things clearly, and explain them well. Welcome!
+I am a student at the [University of Lagos, Nigeria][1]; Interested in the Arts, Mathematics, Physics, Computer Science and Software Engineering. I want to understand things clearly, and explain them well. Welcome!
 
 
 📩: dco2.caleb@gmail.com
