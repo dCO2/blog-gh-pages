@@ -17,6 +17,9 @@ kramdown:
   #  smart_quotes: apos,apos,quot,quot
   parse_block_html: true
 
+# Support for emojis
+gems: ["jemoji"]
+
 # Site settings
 # permalink: /blog/:year/:month/:day/:title/
 
