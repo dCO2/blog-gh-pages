@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Case for Minimalism
+title: The Case for Minimalism
 tags: psychology design art
 ---
 
