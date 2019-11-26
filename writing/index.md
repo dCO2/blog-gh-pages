@@ -1,25 +1,15 @@
 ---
 layout: page
-title: Gold rustles on spiky new shoes
-tags: garbled-gunk-shot-of-steaming-phrases
+title: On becoming; a Noiseless Patient Spider
+tags: Beginning Personal 
 ---
 
-**INSERT PHRASE HERE**
+In 1862, at the age of 49, an old American poet, essayist and journalist drafted on a manuscript the bones of a poem that eventually evolved into what is now called A Noiseless Patient Spider; his name is Walt Whitman. In 1881, after 11 years of revision and evolution, the final version of "A Noiseless Patient Spider" was published in his book collection of poems: Leaves of Grass.
 
-But why?
+However, Isn't it rather strange? To write about a Spider, a noiseless patient spider, and publish whatever garbage is written in a book with an overtly grandiose title: Leaves of Grass. What could be more pretentious if not the same bloody highfalutin poetry!
 
-Why is it that what we perceive of ourselves and who we claim to be is not who we actually are 
-in reality?
+Leanback and ponder what more, of a spider, is worth writing about if not the science about its anatomy, taxonomy, evolution, ethology, ecology, anthrozoology and all the other -ogys of precise science. What, of a spider, is noiseless and patient?
 
-Well, I claim it is because the human mind, our mind, didn't evolve to be minimalist in nature.
-Minimalism means being simple, it means using only that which is needed and weeding out the unnecessary. It means clearing the clutter.
+This poem--and all of poetry--may be strange and pretentious; it may be unecessary and irrelevant in the already polymerous -ogy of precise science. But strange is that which is difficult to comprehend--Ignoring for the sake of completeness actual garbage that is written in a bid to experiment with language. It is not a fault on the part of the poetry but a fault on that of the reader. He simply has not forged the faculties to possibly comprehend. It's because of an incompleteness on his part. He is incomplete.
 
-If minimalism means being simple, how then does that explain the apparent dissonance between our actual self (as seen by an observer) and our perceived or imagined self?
-
-You see, think about this metaphor for a minute: Your thoughts, your intuition, your knowledge and a few of your beliefs are all bubble-balls of inarticulate, probably uninformed and possibly contradictory ideas (for lack of a better word) floating about your headspace every second.
-
-But these bubble-balls are weird. They don't readily coalesce like usual soap bubbles would and every day as you live, you cram thousands of balls of ideas into your tiny; slightly-minimalist headspace without seriously examining or screening or sieving or filtering them.
-
-You clutter your headspace.
-
-What are these bubble-ball ideas we fail to seriously examine?
+A gentle and more malleable mind willing to understand, eventually, will find that much is to be learned from the Spider Walt uses to metaphorize and that poetry is {even truer} more embracing than our rejection of it. It is more science than our critical mind wishes to admit. If you, too, dislike it. Reading it however, with a perfect contempt for it, you discover in it, after all, a place for the genuine.
