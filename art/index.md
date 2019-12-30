@@ -4,16 +4,12 @@ title: gold rustles
 tags: art drawing
 ---
 
-__Work in Progress__
+_Work in Progress..._
 
-I perceived a trail of dust;
-
-straddled like chariots
-
-to the reins of boisterous Harmattan.
-
-In its wake, Memories descended;
-
-subtle and gentle—
-
-Nostalgia too.
+Placeholder:
+> I perceived a trail of dust; <br />
+> straddled like chariots <br />
+> to the reins of boisterous Harmattan. <br />
+> In its wake, Memories descended; <br />
+> subtle and gentle— <br />
+> Nostalgia too.
