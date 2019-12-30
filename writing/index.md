@@ -36,3 +36,5 @@ Specifically, the Kaluli live a lifestyle very similar to that of our ancestors 
 
 There are 6 particular features of modernity that have this psychologically disturbing effect:
 > Meritocracy; Individualism; Secularism; Romanticism; The Media; Perfectibilty
+_*Meritocracy*:_ Our societies beat into our psyche the fact that everyone is free to _"make it"_ if they have the talent and energy. Unfortunately, with this apparently beautiful fact forged into our minds, we cant help but feel definite laziness or a lack of talent if the promised success is not close at hand. A musing akin to: "If those at the top deserve all their success, then those at the bottom must surely deserve all their failure." A society that thinks of itself as meritocratic turns poverty from a problem to evidence of damnation and those who have failed from unfortunates to losers. 
+
