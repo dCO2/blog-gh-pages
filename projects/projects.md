@@ -5,20 +5,17 @@ layout: page
 permalink: /projects/
 ---
 
-#### Research
+### Research
 
 
-#### Professional
+### Professional
 
 
-#### Course
+### Course
 
 
-#### Independent
+### Independent
 
 
-#### Open-source Contributions
-
-
-#### Scripts & Hacks
+### Open-source
 
