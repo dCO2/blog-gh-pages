@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gold rustles
+title: harmattan dust
 tags: art drawing
 ---
 
