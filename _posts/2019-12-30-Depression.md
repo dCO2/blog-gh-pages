@@ -22,7 +22,6 @@ He attempts to lock the reader in the same cell as the Depressed Person. She is 
 
 Language can communicate only so much on something that is entirely subjective. Depression is a disorder. It is also a mood which is often sadness that wears off after a few days. As a disorder, it is something much worse. Something that feels perpetual only made mild with antidepressants.
 
-
-Why depression?
+## Why depression?
 
 To attepmt to undertand the causes of depression locally, i.e by studying the source of depression in an individual, we hit a hard wall because depression, in another sense, is sadness that has forgotten its true causes – forgotten because remembering may generate overwhelming, untenable feelings of pain and loss. A better approach will be to undersrtand its causes globally. Why depression? Is it a disease of our time? Of civilization or Modernity? Or is it etched into our genes?
