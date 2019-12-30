@@ -6,9 +6,9 @@ tags: test psychology
 
 > _Stomp! Stomp! Stomp! is the buzzing sound of depression in our modern time. What Frankensteined this Monster?_ <br />
 
-## How depression?
+## but first, *How depression*?
 
-Depression is a 16-feet tall monster; large and menacing that anyone or anything beside it becomes insignificantly irrelevant. If you are unfortunate to be captured by this monster, He grabs you by the head; stares into your innocent eye—unaware of what is about to happen—and slips you forcefully beneath its feet—letting out a mischievous laugh. As if that is not enough, He starts stomping on your every bone, body, and, blood; again and again like you're something of an insect or an undesirable bug. If you've not been captured by this monster then you may not understand. Bugs know best the emotion they feel.
+Depression is a 16-feet tall monster; large and menacing that anyone or anything beside it becomes—like an insect—insignificantly irrelevant. If you are unfortunate to be captured by this monster, He grabs you by the head; stares into your innocent eye—unaware of what is about to happen—and slips you forcefully beneath its feet—letting out a mischievous laugh. As if that is not enough, He starts stomping on your every bone, body, and, blood; again and again like you're something of an insect or an undesirable bug. If you've not been captured by this monster then you may not understand. Bugs know best the emotion they feel.
 
 David Foster Wallace was such bug. He was an American writer and university Professor of English and Creative writing. His novel, _Infinite Jest_, is considered to be so good that it is listed as one of the 100 best English-language novels published between 1923 and 2005. Despite a promising career, on September 12th of 2008—after many years of being wickedly and unnecessarily stomped—he took his own life. His wife, Karen Green, came home to find that he had hanged himself on the courtyard of their house, in Claremont, California. Although he barely wrote about his mental illness, David Wallace wrote an account of his depression when he was alive and younger. To subjectively understand how it feels be depressed, the topic will be scrutinized through the lens of creative writers that were bugs too. Writers (and artists alike) interpret the world for us. They articulate empathetically the world's vicissitudes and remind us of who we are and what it is to be human.
 
@@ -24,7 +24,7 @@ He attempts to lock the reader in the same cell as the Depressed Person. She is 
 
 Language can communicate only so much, something that is entirely subjective. Depression is a disorder. It is also a mood which is often sadness that wears off after a few days. As a disorder, it is something much worse. Something that feels perpetual only made mild with antidepressants.
 
-## Why depression?
+## then, *Why depression*?
 
 To attempt to understand the causes of depression locally, i.e, by studying the source of depression in an individual, we hit a hard wall because depression—in a sense—is sadness that has forgotten its true causes – forgotten because remembering may generate overwhelming, untenable feelings of pain and loss. A better approach will be to understand its causes globally. Why depression? Is it a disease of our time? Of Civilization or Modernity? Or is it etched into our genes?
 
