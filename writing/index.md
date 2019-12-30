@@ -26,4 +26,4 @@ Language can communicate only so much on something that is entirely subjective. 
 
 ## Why depression?
 
-To attepmt to undertand the causes of depression locally, i.e by studying the source of depression in an individual, we hit a hard wall because depression, in another sense, is sadness that has forgotten its true causes – forgotten because remembering may generate overwhelming, untenable feelings of pain and loss. A better approach will be to undersrtand its causes globally. Why depression? Is it a disease of our time? Of civilization or Modernity? Or is it etched into our genes?
+To attempt to undertand the causes of depression locally, i.e, by studying the source of depression in an individual, we hit a hard wall because depression, in another sense, is sadness that has forgotten its true causes – forgotten because remembering may generate overwhelming, untenable feelings of pain and loss. A better approach will be to undersrtand its causes globally. Why depression? Is it a disease of our time? Of civilization or Modernity? Or is it etched into our genes?
