@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Depression in the 21st Century: How it feels to be stomped by the Tall Bad Thing."
+title: "Depression in the 21st Century: How it feels to be stomped by this Tall Bad Thing."
 tags: test psychology
 ---
 
-_Stomp! Stomp! Stomp! is the buzzing sound of depression in our modern time. What Frankinsteined this Monster?_
-
+_Stomp! Stomp! Stomp! is the buzzing sound of depression in our modern time. What Frankinsteined this Monster?_ <br />
 Depression is a 16-feet tall monster; large and manacing that anyone or anything beside it becomes insignificantly irrelevant. If you are unfortunate to be captured by this monster, He grabs you by the head, stares into your innocent eye—unaware of what is about to happen—and slips you forcefully beneath its feet—letting out a mischievous laugh. As if that is not enough, He starts stomping on your every bone, body, and, blood again and again like you're something of an insect or an undesirable bug. If you've not been captured by this monster then you may not understand. Bugs know best the emotion they feel.
 
 David Foster Wallace was such bug. He was an American writer and university Professor of English and Creative writing. His novel, _Infinite Jest_,is considered to be so good that it is listed as one of the 100 best English-language novels published between 1923 and 2005. Despite a promising career, on September 12th of 2008—after many years of being stomped—he took his own life. His wife, Karen Green, came home to find that he had hanged himself on the courtyard of their house, in Claremont, California. Although he barely wrote about his mental illness, Foster Wallace wrote an account of his depression when he was alive and younger. To subjectively understand how it feels be depressed, the topic will be scrutinized through the lens of creative writers that were bugs too. Writers (and artists alike) inteprete the world for us. They articulate empathetically the world's vicissitudes and remind us of who we are and what it is to be human.
