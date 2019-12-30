@@ -22,7 +22,7 @@ He attempts to lock the reader in the same cell as the Depressed Person. She is 
 
 > "The former acquaintances and classmates who composed her Support System often told the depressed person that they just wished she could be a little less hard on herself, to which the depressed person responded by bursting involuntarily into tears and telling them that she knew all too well that she was one of those dreaded types of everyone’s grim acquaintance who call at inconvenient times and just go on and on about themselves."
 
-Language can communicate only so much on something that is entirely subjective. Depression is a disorder. It is also a mood which is often sadness that wears off after a few days. As a disorder, it is something much worse. Something that feels perpetual only made mild with antidepressants.
+Language can communicate only so much, something that is entirely subjective. Depression is a disorder. It is also a mood which is often sadness that wears off after a few days. As a disorder, it is something much worse. Something that feels perpetual only made mild with antidepressants.
 
 ## Why depression?
 
