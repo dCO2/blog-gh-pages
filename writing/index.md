@@ -4,7 +4,7 @@ title: "Depression in the 21st Century: How it feels to be stomped by this Tall 
 tags: test psychology
 ---
 
-> _Stomp! Stomp! Stomp! is the buzzing sound of depression in our modern time. What Frankinsteined this Monster?_ <br />
+> _Stomp! Stomp! Stomp! is the buzzing sound of depression in our modern time. What Frankensteined this Monster?_ <br />
 
 ## How depression?
 
