@@ -364,6 +364,7 @@ p.feature-image img {
         margin: 0 auto 3em auto;
         text-align: center;
         width: 80%;
+        background-color: #00ffef;
     }
 
     .nav {
