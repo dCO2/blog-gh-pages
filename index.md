@@ -11,6 +11,6 @@ title: Home
 I'm Caleb. _(Software Engineer, Writer)_.  
 I’m interested in _Data_, _Optimization_, and _Crypto_ systems.  
 
-# _Welcome—_
+## _Welcome—_
 
 📩: dco2 [dot] caleb [at] gmail [dot] com
