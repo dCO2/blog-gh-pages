@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Depression in the 21st Century: How it feels to be stomped by this Tall Bad Thing."
 tags: test psychology
 ---
