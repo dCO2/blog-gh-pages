@@ -107,9 +107,9 @@ p code, ul code {
 }
 
 .author-image {
-    -webkit-border-radius: 95px;
-    -moz-border-radius: 95px;
-    border-radius: 95px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
     height: 70px;
     width: 70px;
 }
