@@ -103,7 +103,7 @@ p code, ul code {
     float: right;
     text-align: right;
     width: 165px;
-    background-color: #00ffef;
+    background-color: #00ffef50;
 }
 
 .author-image {
@@ -364,7 +364,7 @@ p.feature-image img {
         margin: 0 auto 3em auto;
         text-align: center;
         width: 80%;
-        background-color: #00ffef;
+        background-color: #00ffef50;
     }
 
     .nav {
