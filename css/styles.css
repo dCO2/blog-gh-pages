@@ -7,9 +7,12 @@ a {
 }
 
 body {
-    font-family: "Computer Modern Serif", sans-serif;
+    /*font-family: "Computer Modern Serif", sans-serif;*/
+    font-family: 'Zen Antique Soft', serif;
     text-align: left;
     font-size: 14px;
+    line-height: 1.6em;
+
 }
 
 h1, h2, h3, h4 {
