@@ -10,7 +10,6 @@ body {
     font-family: "Computer Modern Serif", sans-serif;
     text-align: left;
     font-size: 14px;
-    line-height: 3em;
 
 }
 
@@ -250,7 +249,7 @@ p.feature-image img {
 .content {
     color: #333;
     font-size: 1.2em;
-    line-height: 1.4em;
+    line-height: 1.6em;
 }
 
 .highlight {
