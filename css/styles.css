@@ -7,7 +7,9 @@ a {
 }
 
 body {
-    font-family: "Computer Modern Serif", sans-serif;
+    /* font-family: "Computer Modern Serif", sans-serif; */
+    font-family: 'Flamenco', cursive;
+    font-family: 'Zen Antique Soft', serif;
     text-align: left;
     font-size: 14px;
 
