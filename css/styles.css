@@ -8,8 +8,11 @@ a {
 
 body {
     /* font-family: "Computer Modern Serif", sans-serif; */
-    font-family: 'Flamenco', cursive;
-    font-family: 'Zen Antique Soft', serif;
+    font-family: 'LMRoman10', sans-serif;
+    font-family: 'LMRomanCaps10', sans-serif;
+    font-family: 'LMRomanDunh10', sans-serif;
+    font-family: 'LMRomanSlant10', sans-serif;
+    font-family: 'LMRomanDemi10', sans-serif;
     text-align: left;
     font-size: 14px;
 
