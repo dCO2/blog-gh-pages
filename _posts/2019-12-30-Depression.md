@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Depression in the 21st Century: How it feels to be stomped by this Tall Bad Thing."
+feature: 1
+feature-image: /images/author-image.png
+url: /_posts/2019-12-30-Depression.md
 tags: test psychology
 ---
 
