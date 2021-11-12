@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Case for Minimalism"
-feature: 1
 feature-image: /blog-gh-pages/images/author-image.png
 permalink: /blog-gh-pages/:year/:month/:day/
 tags: psychology design art
