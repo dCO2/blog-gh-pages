@@ -4,7 +4,7 @@ title: harmattan dust
 tags: art drawing
 ---
 
-_Work in Progress..._
+_Dec 2019: Work in Progress..._
 
 Placeholder:
 > I perceived a trail of dust; <br />
